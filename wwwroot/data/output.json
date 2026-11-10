@@ -1,0 +1,49 @@
+{
+  "LastUpdated": "2026-11-10T20:54:12.794227+01:00",
+  "AfcSeeds": [
+    {
+      "Seed": 1,
+      "Team": "Kansas City Chiefs",
+      "Division": "AFC West",
+      "Record": "11-2",
+      "Status": "Clinched Division"
+    },
+    {
+      "Seed": 2,
+      "Team": "Buffalo Bills",
+      "Division": "AFC East",
+      "Record": "10-3",
+      "Status": "In Playoff Spot"
+    },
+    {
+      "Seed": 3,
+      "Team": "Baltimore Ravens",
+      "Division": "AFC North",
+      "Record": "9-4",
+      "Status": "In Playoff Spot"
+    }
+  ],
+  "NfcSeeds": [
+    {
+      "Seed": 1,
+      "Team": "Detroit Lions",
+      "Division": "NFC North",
+      "Record": "12-1",
+      "Status": "Clinched Playoff"
+    },
+    {
+      "Seed": 2,
+      "Team": "Philadelphia Eagles",
+      "Division": "NFC East",
+      "Record": "11-2",
+      "Status": "In Playoff Spot"
+    },
+    {
+      "Seed": 3,
+      "Team": "Seattle Seahawks",
+      "Division": "NFC West",
+      "Record": "8-5",
+      "Status": "In Playoff Spot"
+    }
+  ]
+}
